@@ -1,6 +1,6 @@
 // ignore_for_file: depend_on_referenced_packages
 import 'package:flutter/material.dart';
-import 'package:flutter_application_for_bayt/packages/home/body.dart';
+import 'package:flutter_application_for_bayt/Pages/home/body.dart';
 import 'package:latlong2/latlong.dart';
 
 //* Defult location of the camera on the map is Dubai
